@@ -1,0 +1,4 @@
+token.txt
+*.sqlite
+venv/
+__pycache__/
